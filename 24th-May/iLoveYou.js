@@ -11,4 +11,4 @@
 // Your goal in this kata is to determine which phrase the girls would say for a flower of a given number of petals, where nb_petals > 0.
 
 //Pseudo code
-//loop through the figures and if the remainder is equal to 0 you return the corresponding messages
+//loop through the figures and if the remainder is equal to 0 you return the corresponding to messages
