@@ -25,5 +25,6 @@ const quartarOf = (month) => {
 
 const quarteOf = (month) => {
   // Your code here
+  //using math.ceil
   return Math.ceil(month / 3);
 };
