@@ -12,3 +12,4 @@ function stringToArray(string) {
 }
 
 console.log(stringToArray("I love God"));
+console.log(stringToArray("Chelsea is the best club in the world"));
