@@ -5,3 +5,5 @@ solution;
 function makeUpperCase(str) {
   return str.toUpperCase();
 }
+
+console.log("hellloooo");
