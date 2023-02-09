@@ -23,3 +23,15 @@ Pseudocode
 3. return the join('')
 
 */
+
+solution
+function DNAtoRNA(dna) {
+  
+    const splitDna = dna.split("")
+    const mapDna = splitDna.map((x) => x == 'T' ? 'U' : x)
+    return mapDna.join("")
+  } 
+
+function DNAtoRNA(dna) {
+    return dna.split("T").join("U");
+  }
